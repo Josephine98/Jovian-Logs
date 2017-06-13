@@ -1,0 +1,43 @@
+System ID #: 			019
+System Name: 			Jovia
+Empire: 				Jovian Federation
+Date System Generated: 	1/1/225
+Primary Component Type: Orange
+
+Name
+Jovia       4   11  T   4   Pop: Jovian 2000PU Benign Rich 100IU HT1 - 2860 GPV
+ Moon #1    3   1   O2      Rich
+
+Planet #2   7   3   O2      Normal
+
+Planet #3   10  3   G
+ Naxos      2   4   O2      Pop: Jovian 40PU Desolate V.Rich HT1 - 46.2
+ Moon #2    5   1   O2      Normal
+ Aether     8   5   O2      Rich
+
+Asteroid Belt   16
+
+Planet #5   28  2   G
+ Aurea      2   5   O2      Pop: Jovian 40PU Desolate V.Rich HT1 - 46.2
+ New Saphire4   6   O2      Pop: Jovian 20PU Desolate V.Rich HT1 - 23.1
+ Moon #3    6   3   O2      Normal
+
+Planet #6   52  10  I
+ Moon #1    1   5   O1      Rich
+ Moon #2    2   4   O1      V.Rich
+ Moon #3    3   4   O1      V.Rich
+ Moon #4    4   5   O1      V.Rich
+
+Planet #7   100 4   I
+ Moon #1    1   2   O1      V.Rich
+ Moon #2    2   5   O1      V.Rich
+ Moon #3    4   5   O1      V.Rich
+
+Planet #8   196 3   I
+ Moon #1    5   6   O1      V.Rich
+
+WPs:
+1   1   500 3   ---
+2   1   500 6   ---
+3   3   400 5   ---
+4   1   400 1   ---

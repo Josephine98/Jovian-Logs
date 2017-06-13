@@ -1,0 +1,48 @@
+Pathfinder-class EX -   85MC
+    [2] AAXHQs(I)(I) [8/4]
+
+Courrier-class EX   -   32MC
+    [2] AHQs(I)(I) [8/4]
+
+Brawler-class FG    -  159MC
+    [2] SSAAARRMgHHQs(I)(I)(I)(I)(I) [7/3]
+
+Enforcer-class DD   -  282MC
+    [3] SSSAAAARRRRMgHQLh(I)(I)(I)(I)(I)(I)(I)
+
+
+
+*Ground Forces
+
+Jovia
+  - 80xPDF1
+Naxos
+  - 10xPDF1
+Aurea
+  - 10xPDF1
+
+
+*Stations, Bases and Mothball
+
+Jovian Orbital Force:
+  - Jovian Shipyards
+    [-] SY1*10 CHS Q*20 Lh*4 [-]
+  
+  -  16x Brawler (Mothballed)
+  -   3x Enforcer (Mothballed)
+  -   2x Courrier (Mothballed)
+
+
+*StarShips
+
+1st Jovian Fleet () - Jovia
+ Average Admiral
+  -   2x Enforcer
+  -   4x Brawler
+  -   2x Courrier
+
+1st Exploratory Fleet - Jovia
+  -  60x Pathfinder
+  -   1x Courrier
+
+    1/225 - 0th StMP

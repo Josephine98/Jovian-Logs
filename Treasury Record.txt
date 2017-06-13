@@ -1,0 +1,17 @@
+Pre-Game Turn
+
+Pathfinder-class EX -   85MC *60 = 5100MC
+    [2] AAXHQs(I)(I) [8/4]
+
+Courrier-class EX   -   32MC  *5 =  160MC
+    [2] AHQs(I)(I) [8/4]
+
+Brawler-class FG    -  159MC *20 = 3180MC
+    [2] SSAAARRMgHHQs(I)(I)(I)(I)(I) [7/3]
+
+Enforcer-class DD   -  282MC  *5 = 1410MC
+    [3] SSSAAAARRRRMgHQLh(I)(I)(I)(I)(I)(I)(I)
+
+6 Mg worth of SM - 120MC
+HT2 Startup Fee - 3000 MC
+HT2 Monthly Fee (0+8)- 1000 MC
