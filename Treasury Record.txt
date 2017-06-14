@@ -15,3 +15,13 @@ Enforcer-class DD   -  282MC  *5 = 1410MC
 6 Mg worth of SM - 120MC
 HT2 Startup Fee - 3000 MC
 HT2 Monthly Fee (0+8)- 1000 MC
+
+1st turn
+
+1030 - Leftover from pregame(Houserule'd)
+2975.5 - Production
+-1000 - HT2 Monthly Fee (8+8)
+-964.2 - Maintenance Fee
+-600 - 10xPTU Colonization
+-850 - 10xPathfinder Production
+-570 - 19xIU Buy

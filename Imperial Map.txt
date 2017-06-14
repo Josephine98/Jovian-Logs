@@ -1,3 +1,54 @@
+System ID #: 			002
+System Name: 			002
+Empire: 				-
+Date System Generated: 	1/1/225
+Primary Component Type: Orange
+
+Name
+Planet #1   4   9   T   1   Normal Hostile
+ Moon #1    1   10  O2      Normal
+ Moon #2    5   2   O2      V.Rich
+
+Planet #2   10  5   G       
+ Moon #1    1   1   O2      V.Rich
+ Moon #2    3   3   O2      V.Rich
+ Moon #3    4   9   O2      Normal
+
+Planet #3   16  5   G 
+ Moon #1    1   9   O2      Normal
+ Moon #2    5   11  O2      V.Rich
+
+Planet #4   28	10  G
+ Moon #1    1   12  O2      V.Rich
+
+Planet #5   52  3   I 
+ Moon #1    1   2   O1      V.Rich
+ Moon #2    2   7   O1      Normal
+ Moon #3    3   1   O1      Normal
+
+Planet #6   100 8   I 
+ Moon #1    3   12  O1      Normal
+
+Planet #7   196 3   I
+ Moon #1    2   10  O1      V.Rich
+
+WPs:
+1
+
+
+System ID #: 			014
+System Name: 			014
+Empire: 				-
+Date System Generated: 	1/1/225
+Primary Component Type: White Dwarf
+
+WPs:
+1   1   500 3   ---
+2   1   500 6   ---
+3   3   400 5   ---
+4   1   400 1   ---
+
+
 System ID #: 			019
 System Name: 			Jovia
 Empire: 				Jovian Federation
@@ -5,7 +56,7 @@ Date System Generated: 	1/1/225
 Primary Component Type: Orange
 
 Name
-Jovia       4   11  T   4   Pop: Jovian 2000PU Benign Rich 100IU HT1 - 2860 GPV
+Jovia       4   11  T   4   Pop: Jovian 2000PU Benign Rich 119IU HT1 - 2860 GPV
  Moon #1    3   1   O2      Rich
 
 Planet #2   7   3   O2      Normal
@@ -19,7 +70,7 @@ Asteroid Belt   16
 
 Planet #5   28  2   G
  Aurea      2   5   O2      Pop: Jovian 40PU Desolate V.Rich HT1 - 46.2
- New Saphire4   6   O2      Pop: Jovian 20PU Desolate V.Rich HT1 - 23.1
+ New Saphire4   6   O2      Pop: Jovian 30PU Desolate V.Rich HT1 - 23.1
  Moon #3    6   3   O2      Normal
 
 Planet #6   52  10  I
@@ -37,7 +88,7 @@ Planet #8   196 3   I
  Moon #1    5   6   O1      V.Rich
 
 WPs:
-1   1   500 3   ---
-2   1   500 6   ---
+1   1   500 3   002
+2   1   500 6   014
 3   3   400 5   ---
 4   1   400 1   ---

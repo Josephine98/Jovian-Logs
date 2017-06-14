@@ -1,0 +1,33 @@
+Merge the Orders and Movements sheets, aswell as provide an action log.
+
+1/225 - 1st Impulse
+	1st Eploratory and 1 Fleet transit through Jovia WP 1, discovering system ID 002. It's sheet is recorded, and survey begins.
+	2nd Exploratory transits through Jovia WP 2, discorvering system ID 014. It's sheet is recorded, and survey begins.
+
+	002 Exploration - 50/0
+	014 Exploration - -/20
+
+ 2nd Impulse
+	002 Exploration - 100/0
+	014 Exploration - -/40
+
+ 3rd Impulse
+	002 Exploration - 150/0
+	014 Exploration - -/60
+
+ 4th Impulse
+	002 Exploration - 200/0
+	014 Exploration - -/80
+
+	002 Finishes Survey, and then begins WP survey.
+
+ 5th Impulse
+	002 Exploration - 200/50
+	014 Exploration - -/100
+
+ 6th Impulse
+	002 Exploration - 200/100
+	014 Exploration - -/120
+
+
+2/225 - 1st Impulse

@@ -30,7 +30,7 @@ Jovian Orbital Force:
   
   -  16x Brawler (Mothballed)
   -   3x Enforcer (Mothballed)
-  -   2x Courrier (Mothballed)
+  -   1x Courrier (Mothballed)
 
 
 *StarShips
@@ -42,7 +42,9 @@ Jovian Orbital Force:
   -   2x Courrier
 
 1st Exploratory Fleet - Jovia
-  -  60x Pathfinder
+  -  50x Pathfinder
   -   1x Courrier
 
-    1/225 - 0th StMP
+2nd Exploratory Fleet - Jovia
+  -  20x Pathfinder
+  -   1x Courrier
